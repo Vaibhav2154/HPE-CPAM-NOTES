@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "TjJ74l4xgYiPmxXvqrehA",
+      "name": "Red",
+      "value": "#f20707"
+    },
+    {
+      "id": "Cie2LsZ-_crQtQ8uNqADm",
+      "name": "Green",
+      "value": "#0dc94f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "One/hello.md",
+      "color": "Cie2LsZ-_crQtQ8uNqADm"
+    }
+  ]
+}
